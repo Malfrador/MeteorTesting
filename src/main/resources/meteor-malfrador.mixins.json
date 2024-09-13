@@ -1,9 +1,9 @@
 {
   "required": true,
-  "package": "com.example.addon.mixin",
+  "package": "de.malfrador.meteor.mixin",
   "compatibilityLevel": "JAVA_21",
   "client": [
-    "ExampleMixin"
+    "ClickSlotC2SPacketCodecAccessor"
   ],
   "injectors": {
     "defaultRequire": 1
